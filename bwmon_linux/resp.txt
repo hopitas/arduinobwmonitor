@@ -1,0 +1,10 @@
+<body><h1>Output data</h1>
+<font size='5'>Data: 
+GET /?up=2&dn=2 HTTP/1.1
+<br />
+Up: 
+2<br />
+Down: 
+2<br />
+</font>
+</body></html>
